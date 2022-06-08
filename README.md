@@ -1,4 +1,4 @@
-## banking-management-service-database CS4400
+## banking-management-service-database
 
 # project purpose
 1. Analyze, specify, design, implement, and document an online system based on 
